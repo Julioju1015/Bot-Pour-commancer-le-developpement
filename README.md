@@ -1,4 +1,4 @@
-# Bot-Pour-commancer-le-developpement
+# Bot-Pour-commencer-le-developpement
 
 Un bot d'exemple pour commencer a coder ! 
 
