@@ -9,3 +9,10 @@ Le bot a été fabriquer avec la version 12 de discord.js !
 
 discord.js
 fs
+
+
+# Information
+
+Mon site: **http://julioju.gq/**
+
+Besoins d'aide venir sur mon discord :**https://discord.gg/p2N8FDX**
