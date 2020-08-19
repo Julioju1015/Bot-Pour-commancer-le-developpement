@@ -46,4 +46,4 @@ fs.readdir('./Events/', (error, f) => {
 });
 
 
-client.login("NzMyNjM1NTk5MDM4NzA5ODQ1.Xw3eEg.6ZfPgVeZQfnL_h9_WfOWc8_oZXY");
+client.login("Votre token");
