@@ -11,11 +11,13 @@ client.on('ready', () => {
     console.log(`Stats:
 
         ╔═════════════════════════════════╗
-        ║-->  Bot Name : ${client.user.username}    
+        ║-->  Bot Name : ${client.user.username}
         ╟─────────────────────────────────╢
-        ║-->  Channels : ${client.channels.cache.size}    
+        ║-->  Channels : ${client.channels.cache.size}
         ╟─────────────────────────────────╢
-        ║-->  Serveurs   : ${client.guilds.cache.size}       
+        ║-->  Utilisateurs : ${client.users.cache.size}
+        ╟─────────────────────────────────╢
+        ║-->  Serveurs   : ${client.guilds.cache.size}
         ╚═════════════════════════════════╝
     `);
 });
